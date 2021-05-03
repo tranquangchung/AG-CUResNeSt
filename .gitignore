@@ -1,0 +1,8 @@
+.*
+!/.gitignore
+__pycache__
+bio_dataset
+checkpoint_journal
+checkpoints_aug2
+checkpoints
+datasets
